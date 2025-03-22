@@ -1,6 +1,6 @@
 # Cloud_Based_Healthcare_Data_System
 A healthcare application that stores patients records in the cloud with proper security
 # Screenshot 1
-![WhatsApp Image 2025-03-22 at 15 13 04](https://github.com/user-attachments/assets/7cec75c5-3178-42b7-80e7-7daaa1c8c5ac)
+![WhatsApp Image 2025-03-22 at 15 23 00](https://github.com/user-attachments/assets/571b5914-b995-4f6a-952f-28e62e4f5448)
 # Screenshot 2
-![WhatsApp Image 2025-03-22 at 15 13 04 (1)](https://github.com/user-attachments/assets/bf59befa-d4d5-453d-965c-16db521f9070)
+![WhatsApp Image 2025-03-22 at 15 23 00 (1)](https://github.com/user-attachments/assets/7f51220e-b55d-4188-b2c9-4ed5cf76a59c)
