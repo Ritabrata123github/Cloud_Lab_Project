@@ -1,5 +1,5 @@
 # Cloud_Based_Healthcare_Data_System
-A healthcare application that stores patients records in the cloud with proper security
+A healthcare application that stores patients records in the cloud with proper security.This is a serverless application which is made with the help of AWS Lambda,DynamoDB,API Gateway,S3 Bucket and Cloudfront.
 # Screenshot 1
 ![WhatsApp Image 2025-03-22 at 15 23 00](https://github.com/user-attachments/assets/571b5914-b995-4f6a-952f-28e62e4f5448)
 # Screenshot 2
